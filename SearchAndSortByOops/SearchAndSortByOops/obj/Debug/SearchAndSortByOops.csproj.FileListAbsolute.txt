@@ -1,0 +1,11 @@
+E:\NET\SearchAndSortByOops\SearchAndSortByOops\bin\Debug\SearchAndSortByOops.exe.config
+E:\NET\SearchAndSortByOops\SearchAndSortByOops\bin\Debug\SearchAndSortByOops.exe
+E:\NET\SearchAndSortByOops\SearchAndSortByOops\bin\Debug\SearchAndSortByOops.pdb
+E:\NET\SearchAndSortByOops\SearchAndSortByOops\obj\Debug\SearchAndSortByOops.csproj.AssemblyReference.cache
+E:\NET\SearchAndSortByOops\SearchAndSortByOops\obj\Debug\SearchAndSortByOops.csproj.SuggestedBindingRedirects.cache
+E:\NET\SearchAndSortByOops\SearchAndSortByOops\obj\Debug\SearchAndSortByOops.csproj.CoreCompileInputs.cache
+E:\NET\SearchAndSortByOops\SearchAndSortByOops\obj\Debug\SearchAndSortByOops.exe
+E:\NET\SearchAndSortByOops\SearchAndSortByOops\obj\Debug\SearchAndSortByOops.pdb
+E:\NET\SearchAndSortByOops\SearchAndSortByOops\bin\Debug\ClassLibrary1.dll
+E:\NET\SearchAndSortByOops\SearchAndSortByOops\bin\Debug\ClassLibrary1.pdb
+E:\NET\SearchAndSortByOops\SearchAndSortByOops\obj\Debug\SearchAndSortByOops.csproj.CopyComplete
